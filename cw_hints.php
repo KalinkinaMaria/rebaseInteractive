@@ -1,6 +1,6 @@
 <?php
 // This file is part of Correct Writing question type - https://code.google.com/p/oasychev-moodle-plugins/
-//
+//Commit 6
 // Correct Writing question type is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
@@ -13,7 +13,7 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
-
+//Commit 6
 /**
  * This file contains hint definitions, that is used by Correct Writing question type.
  *
