@@ -10,7 +10,7 @@
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 // GNU General Public License for more details.
-//
+//Commit 5
 // You should have received a copy of the GNU General Public License
 // along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
 
@@ -189,7 +189,7 @@ class qtype_correctwriting_lexical_analyzer extends qtype_correctwriting_abstrac
         return 'lexical_analyzer';
     }
 
-
+//Commit 5
     // Form and DB related functions.
     public function float_form_fields() {
         return array(array('name' => 'lexicalerrorthreshold', 'default' => 0.33, 'advanced' => true, 'required' => false, 'min' => 0, 'max' => 1), //Lexical error threshold field
