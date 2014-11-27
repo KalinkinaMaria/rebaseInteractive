@@ -37,6 +37,8 @@ abstract class qtype_correctwriting_ast_handler  {
         }
     }
 
+	//Commit 1
+	
     /**
      * Visits node, performing needed operations
      * @param block_formal_langs_ast_node_base $node
@@ -61,6 +63,7 @@ abstract class qtype_correctwriting_ast_handler  {
     }
 }
 
+// Commit 1
 
 class qtype_correctwriting_marked_tree_builder extends qtype_correctwriting_ast_handler {
     /**
