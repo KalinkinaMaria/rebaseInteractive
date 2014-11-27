@@ -14,6 +14,10 @@
 // You should have received a copy of the GNU General Public License
 // along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
 
+//Commit 3
+//Commit 3
+//Commit 3
+
 /**
  * Where pic image generator, used in correctwriting to show where pic image hint
  *
